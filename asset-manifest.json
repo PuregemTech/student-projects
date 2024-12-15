@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/student-projects/static/css/main.0e97b543.css",
-    "main.js": "/student-projects/static/js/main.47b2a75f.js",
+    "main.js": "/student-projects/static/js/main.2a9bc249.js",
     "static/js/488.7102e02e.chunk.js": "/student-projects/static/js/488.7102e02e.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/student-projects/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Logo.png": "/student-projects/static/media/Logo.0b425b78e9ef9d3ea5ab.png",
@@ -18,11 +18,11 @@
     "static/media/Group2.png": "/student-projects/static/media/Group2.f84e44ef91cd748b10a9.png",
     "index.html": "/student-projects/index.html",
     "main.0e97b543.css.map": "/student-projects/static/css/main.0e97b543.css.map",
-    "main.47b2a75f.js.map": "/student-projects/static/js/main.47b2a75f.js.map",
+    "main.2a9bc249.js.map": "/student-projects/static/js/main.2a9bc249.js.map",
     "488.7102e02e.chunk.js.map": "/student-projects/static/js/488.7102e02e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e97b543.css",
-    "static/js/main.47b2a75f.js"
+    "static/js/main.2a9bc249.js"
   ]
 }
