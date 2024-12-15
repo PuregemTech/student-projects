@@ -8,17 +8,23 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'font-awesome/css/font-awesome.css';
 import Login from './components/login';
 
-const root = ReactDOM.createRoot (document.getElementById ('root'));
-root.render (
-  <React.StrictMode>
+export default function Apps () {
+  return (
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="*" element={<Login />} />;
+        {/* <Route path="*" element={<Login />} /> */}
 
       </Routes>
 
     </BrowserRouter>
+  );
+}
+
+const root = ReactDOM.createRoot (document.getElementById ('root'));
+root.render (
+  <React.StrictMode>
+    <App />
   </React.StrictMode>
 );
 
