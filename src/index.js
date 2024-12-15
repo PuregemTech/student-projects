@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import {BrowserRouter, Route, Routes} from 'react-router-dom';
+import {BrowserRouter, Route, Routes, Router} from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'font-awesome/css/font-awesome.css';
 import Login from './components/login';
@@ -11,9 +11,9 @@ import Login from './components/login';
 export default function Apps () {
   return (
     <BrowserRouter>
+
       <Routes>
         <Route path="/" element={<App />} />
-        {/* <Route path="*" element={<Login />} /> */}
 
       </Routes>
 
@@ -24,7 +24,9 @@ export default function Apps () {
 const root = ReactDOM.createRoot (document.getElementById ('root'));
 root.render (
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <App />
+    </BrowserRouter>
   </React.StrictMode>
 );
 
