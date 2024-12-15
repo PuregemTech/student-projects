@@ -14,8 +14,9 @@ import Score from './components/score';
 function App () {
   return (
     <>
-      <Routes>
-        <Route path="/" element={<LandingPage />} />
+      <h1>Hello</h1>
+      {/* <Routes>
+        <Route path="/student-projects" element={<LandingPage />} />
         <Route path="/student-project/login" element={<Login />} />
         <Route path="/student-project/register" element={<Register />} />
         <Route path="/student-project/home" element={<Home />} />
@@ -24,7 +25,7 @@ function App () {
         <Route path="/student-project/question" element={<Question />} />
         <Route path="/student-project/score" element={<Score />} />
 
-      </Routes>
+      </Routes> */}
       {/* <LandingPage /> */}
     </>
   );
