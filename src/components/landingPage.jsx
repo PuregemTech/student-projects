@@ -7,7 +7,7 @@ const LandingPage = () => {
     <React.Fragment>
       {' '}<main>
         <div className="container">
-          <LandingPageHeader />
+          {/* <LandingPageHeader /> */}
 
           <div className="row">
             <div className="col LandingPage">

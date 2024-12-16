@@ -1,6 +1,6 @@
 {
-  "homepage": "https://PuregemTech.github.io/student-projects",
   "name": "school-projects",
+  "homepage": "https://PuregemTech.github.io/student-projects",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

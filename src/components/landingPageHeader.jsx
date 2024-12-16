@@ -19,7 +19,7 @@ const LandingPageHeader = () => {
 
         </div>
         <div className="col mt-3">
-          <Link to="/student-project/login">
+          <Link to="/login">
             {' '}<button
               className="btn btn-style"
               style={{marginRight: '3rem'}}
@@ -27,7 +27,7 @@ const LandingPageHeader = () => {
               Log In
             </button>
           </Link>
-          <Link to="/student-project/register">
+          <Link to="/register">
             <button className="btn btn-style">
               Register
             </button>
