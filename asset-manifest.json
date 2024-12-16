@@ -1,28 +1,22 @@
 {
   "files": {
     "main.css": "/student-projects/static/css/main.0e97b543.css",
-    "main.js": "/student-projects/static/js/main.bf4aa1c9.js",
+    "main.js": "/student-projects/static/js/main.832c9b06.js",
     "static/js/488.7102e02e.chunk.js": "/student-projects/static/js/488.7102e02e.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/student-projects/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/Logo.png": "/student-projects/static/media/Logo.0b425b78e9ef9d3ea5ab.png",
-    "static/media/RegistrationFrame2.png": "/student-projects/static/media/RegistrationFrame2.d5705d8c5be73dad67f8.png",
     "static/media/fontawesome-webfont.eot": "/student-projects/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/student-projects/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/student-projects/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/LandingPagee.png": "/student-projects/static/media/LandingPagee.765ae28f531b0c91ae90.png",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/student-projects/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/ProfilePic.png": "/student-projects/static/media/ProfilePic.a4d53ea040b02a7f66bc.png",
-    "static/media/LoginImage.png": "/student-projects/static/media/LoginImage.a039dd352d837c4b03dc.png",
-    "static/media/RegistrationFrame1.png": "/student-projects/static/media/RegistrationFrame1.d2e9dafff2d9672e9884.png",
-    "static/media/Group1.png": "/student-projects/static/media/Group1.e2ab6d0203f6639a18af.png",
-    "static/media/Group2.png": "/student-projects/static/media/Group2.f84e44ef91cd748b10a9.png",
     "index.html": "/student-projects/index.html",
     "main.0e97b543.css.map": "/student-projects/static/css/main.0e97b543.css.map",
-    "main.bf4aa1c9.js.map": "/student-projects/static/js/main.bf4aa1c9.js.map",
+    "main.832c9b06.js.map": "/student-projects/static/js/main.832c9b06.js.map",
     "488.7102e02e.chunk.js.map": "/student-projects/static/js/488.7102e02e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e97b543.css",
-    "static/js/main.bf4aa1c9.js"
+    "static/js/main.832c9b06.js"
   ]
 }
